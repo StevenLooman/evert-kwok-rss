@@ -1,0 +1,44 @@
+{
+  "name": "evert-kwok-rss",
+  "version": "1.0.0",
+  "description": "Automated RSS feed generator for Evert Kwok's cartoons",
+  "main": "src/scraper.js",
+  "scripts": {
+    "start": "node src/scraper.js",
+    "generate": "node src/scraper.js --output=docs/feed.xml --verbose",
+    "test": "node src/scraper.js --output=test-feed.xml --verbose",
+    "dev": "node src/scraper.js --output=docs/feed.xml --verbose && open docs/index.html"
+  },
+  "keywords": [
+    "rss",
+    "feed",
+    "scraper",
+    "cartoons",
+    "evert-kwok",
+    "automation",
+    "github-actions"
+  ],
+  "author": "GitHub Actions Bot",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/evert-kwok-rss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/evert-kwok-rss/issues"
+  },
+  "homepage": "https://yourusername.github.io/evert-kwok-rss/",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "directories": {
+    "doc": "docs"
+  }
+}

@@ -1,0 +1,129 @@
+# .github/workflows/update-rss.yml
+name: Update RSS Feed
+
+on:
+  schedule:
+    # Run daily at 6:00 AM UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # Allow manual triggering
+  push:
+    branches: [ main ]  # Run on pushes for testing
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    
+    steps:
+    - name: 🛒 Checkout Repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Full history for better commit messages
+    
+    - name: 🟢 Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+    
+    - name: 📦 Install Dependencies
+      run: npm ci
+    
+    - name: 🕐 Get Current Time
+      run: echo "CURRENT_TIME=$(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_ENV
+    
+    - name: 🎨 Scrape Cartoons and Generate RSS
+      run: |
+        echo "Starting RSS generation at $CURRENT_TIME"
+        npm run generate
+    
+    - name: 📊 Get Feed Stats
+      id: stats
+      run: |
+        # Count items in the RSS feed
+        ITEM_COUNT=$(grep -c "<item>" docs/feed.xml || echo "0")
+        echo "ITEM_COUNT=$ITEM_COUNT" >> $GITHUB_ENV
+        
+        # Get latest cartoon date
+        LATEST_DATE=$(grep -A5 "<item>" docs/feed.xml | grep "<pubDate>" | head -1 | sed 's/.*<pubDate>\(.*\)<\/pubDate>.*/\1/' || echo "Unknown")
+        echo "LATEST_DATE=$LATEST_DATE" >> $GITHUB_ENV
+        
+        echo "Found $ITEM_COUNT cartoons, latest: $LATEST_DATE"
+    
+    - name: 📝 Update README with Stats
+      run: |
+        # Update README with current stats
+        sed -i "s/<!-- This will be auto-updated by the action -->/$CURRENT_TIME/g" README.md
+        sed -i "s/\*\*Total Cartoons:\*\* <!-- This will be auto-updated by the action -->/\*\*Total Cartoons:\*\* $ITEM_COUNT/g" README.md
+        sed -i "s/\*\*Latest Cartoon:\*\* <!-- This will be auto-updated by the action -->/\*\*Latest Cartoon:\*\* $LATEST_DATE/g" README.md
+    
+    - name: 📄 Update Landing Page
+      run: |
+        # Update the index.html with current stats
+        sed -i "s/{{LAST_UPDATED}}/$CURRENT_TIME/g" docs/index.html
+        sed -i "s/{{ITEM_COUNT}}/$ITEM_COUNT/g" docs/index.html
+        sed -i "s/{{LATEST_DATE}}/$LATEST_DATE/g" docs/index.html
+    
+    - name: 🔍 Check for Changes
+      id: changes
+      run: |
+        if git diff --quiet; then
+          echo "No changes detected"
+          echo "changes=false" >> $GITHUB_OUTPUT
+        else
+          echo "Changes detected"
+          echo "changes=true" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: 💾 Commit Changes
+      if: steps.changes.outputs.changes == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "🤖 Update RSS feed - $CURRENT_TIME
+        
+        📊 Stats:
+        - Total cartoons: $ITEM_COUNT
+        - Latest: $LATEST_DATE
+        - Generated: $CURRENT_TIME
+        
+        🔄 Auto-update via GitHub Actions" || exit 0
+    
+    - name: 🚀 Push Changes
+      if: steps.changes.outputs.changes == 'true'
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
+    
+    - name: 🌐 Setup Pages
+      uses: actions/configure-pages@v4
+      
+    - name: 📤 Upload to Pages
+      uses: actions/upload-pages-artifact@v2
+      with:
+        path: ./docs
+        
+    - name: 🚀 Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v3
+    
+    - name: ✅ Success Notification
+      if: steps.changes.outputs.changes == 'true'
+      run: |
+        echo "🎉 RSS feed updated successfully!"
+        echo "📊 Total cartoons: $ITEM_COUNT"
+        echo "📅 Latest cartoon: $LATEST_DATE"
+        echo "🔗 Feed URL: ${{ steps.deployment.outputs.page_url }}feed.xml"
+    
+    - name: 📋 No Changes Notification
+      if: steps.changes.outputs.changes == 'false'
+      run: |
+        echo "ℹ️ No new cartoons found"
+        echo "📊 Current total: $ITEM_COUNT cartoons"
+        echo "🔗 Feed URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/feed.xml"
