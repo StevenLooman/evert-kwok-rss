@@ -8,7 +8,7 @@
         <copyright>© 2025 Evert Kwok. All rights reserved.</copyright>
         <managingEditor>info@evertkwok.nl (Evert Kwok)</managingEditor>
         <webMaster>info@evertkwok.nl (Evert Kwok)</webMaster>
-        <lastBuildDate>Mon, 17 Nov 2025 06:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Nov 2025 06:15:42 GMT</lastBuildDate>
         <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
         <ttl>1440</ttl>
         <generator>Evert Kwok Cartoon Scraper v2.0 (GitHub Actions)</generator>
@@ -13622,6 +13622,75 @@
             <source url="https://github.io/StevenLooman/evert-kwok-rss/feed.xml">Evert Kwok Educational Cartoons</source>
         </item>
         <item>
+            <title>Wappiet</title>
+            <link>https://www.evertkwok.nl/wp-content/uploads/2021/11/879-wappiet.jpg</link>
+            <description><![CDATA[
+                <div style="max-width: 600px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">
+                    <p style="font-size: 16px; color: #333; margin-bottom: 20px; text-align: center;">
+                        Educational cartoon by Evert Kwok featuring wappiet. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
+                    </p>
+                    <div style="text-align: center; margin: 20px 0;">
+                        <img src="https://www.evertkwok.nl/wp-content/uploads/2021/11/879-wappiet.jpg" 
+                             alt="Wappiet" 
+                             style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+                             loading="lazy" />
+                    </div>
+                    <p style="font-size: 14px; color: #666; text-align: center; margin-top: 15px;">
+                        <strong>🎨 Educational cartoon by <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a></strong>
+                    </p>
+                </div>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <div style="max-width: 800px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+                    <header style="text-align: center; margin-bottom: 30px; padding: 20px; background: linear-gradient(135deg, #f8f9fa, #e9ecef); border-radius: 12px;">
+                        <h1 style="color: #007cba; margin: 0 0 10px 0; font-size: 24px;">Wappiet</h1>
+                        <p style="color: #666; margin: 0; font-size: 16px;">📅 maandag 1 november 2021</p>
+                    </header>
+                    
+                    <div style="text-align: center; margin: 30px 0;">
+                        <img src="https://www.evertkwok.nl/wp-content/uploads/2021/11/879-wappiet.jpg" 
+                             alt="Wappiet" 
+                             style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); transition: transform 0.3s ease;" 
+                             onmouseover="this.style.transform='scale(1.02)'" 
+                             onmouseout="this.style.transform='scale(1)'"
+                             loading="lazy" />
+                    </div>
+                    
+                    <div style="background: #f8f9fa; padding: 25px; border-radius: 12px; margin: 30px 0; border-left: 4px solid #007cba;">
+                        <p style="font-size: 16px; line-height: 1.8; color: #333; margin: 0;">
+                            Educational cartoon by Evert Kwok featuring wappiet. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
+                        </p>
+                    </div>
+                    
+                    <footer style="text-align: center; margin-top: 40px; padding: 20px; background: #f1f3f4; border-radius: 12px;">
+                        <p style="margin: 0; font-size: 14px; color: #666;">
+                            🎓 <strong>About the Artist:</strong> <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a> creates educational cartoons that make complex scientific and mathematical concepts accessible through humor and visual storytelling.
+                        </p>
+                        <p style="margin: 10px 0 0 0; font-size: 12px; color: #888;">
+                            📡 This content is delivered via an automated RSS feed. <a href="https://github.io/StevenLooman/evert-kwok-rss" style="color: #007cba;">Learn more</a>
+                        </p>
+                    </footer>
+                </div>
+            ]]></content:encoded>
+            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
+            <dc:date>2021-11-01T00:00:00.000Z</dc:date>
+            <guid isPermaLink="true">https://www.evertkwok.nl/wp-content/uploads/2021/11/879-wappiet.jpg</guid>
+            <enclosure url="https://www.evertkwok.nl/wp-content/uploads/2021/11/879-wappiet.jpg" type="image/jpeg" length="0"/>
+            <media:content url="https://www.evertkwok.nl/wp-content/uploads/2021/11/879-wappiet.jpg" type="image/jpeg" medium="image">
+                <media:title>Wappiet</media:title>
+                <media:description>Educational cartoon by Evert Kwok featuring wappiet. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.</media:description>
+                <media:keywords>education, cartoon, science, mathematics, humor, evert kwok</media:keywords>
+            </media:content>
+            <category>Education</category>
+            <category>Cartoons</category>
+            <category>Science</category>
+            <category>Mathematics</category>
+            <category>Humor</category>
+            <category>Visual Learning</category>
+            <author>info@evertkwok.nl (Evert Kwok)</author>
+            <source url="https://github.io/StevenLooman/evert-kwok-rss/feed.xml">Evert Kwok Educational Cartoons</source>
+        </item>
+        <item>
             <title>Coloscopiet</title>
             <link>https://www.evertkwok.nl/wp-content/uploads/2021/11/927-coloscopiet.jpg</link>
             <description><![CDATA[
@@ -13817,75 +13886,6 @@
             <media:content url="https://www.evertkwok.nl/wp-content/uploads/2021/11/807spoiler.jpg" type="image/jpeg" medium="image">
                 <media:title>Spoiler</media:title>
                 <media:description>Educational cartoon by Evert Kwok featuring spoiler. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.</media:description>
-                <media:keywords>education, cartoon, science, mathematics, humor, evert kwok</media:keywords>
-            </media:content>
-            <category>Education</category>
-            <category>Cartoons</category>
-            <category>Science</category>
-            <category>Mathematics</category>
-            <category>Humor</category>
-            <category>Visual Learning</category>
-            <author>info@evertkwok.nl (Evert Kwok)</author>
-            <source url="https://github.io/StevenLooman/evert-kwok-rss/feed.xml">Evert Kwok Educational Cartoons</source>
-        </item>
-        <item>
-            <title>Wappiet</title>
-            <link>https://www.evertkwok.nl/wp-content/uploads/2021/11/879-wappiet.jpg</link>
-            <description><![CDATA[
-                <div style="max-width: 600px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">
-                    <p style="font-size: 16px; color: #333; margin-bottom: 20px; text-align: center;">
-                        Educational cartoon by Evert Kwok featuring wappiet. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
-                    </p>
-                    <div style="text-align: center; margin: 20px 0;">
-                        <img src="https://www.evertkwok.nl/wp-content/uploads/2021/11/879-wappiet.jpg" 
-                             alt="Wappiet" 
-                             style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
-                             loading="lazy" />
-                    </div>
-                    <p style="font-size: 14px; color: #666; text-align: center; margin-top: 15px;">
-                        <strong>🎨 Educational cartoon by <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a></strong>
-                    </p>
-                </div>
-            ]]></description>
-            <content:encoded><![CDATA[
-                <div style="max-width: 800px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-                    <header style="text-align: center; margin-bottom: 30px; padding: 20px; background: linear-gradient(135deg, #f8f9fa, #e9ecef); border-radius: 12px;">
-                        <h1 style="color: #007cba; margin: 0 0 10px 0; font-size: 24px;">Wappiet</h1>
-                        <p style="color: #666; margin: 0; font-size: 16px;">📅 maandag 1 november 2021</p>
-                    </header>
-                    
-                    <div style="text-align: center; margin: 30px 0;">
-                        <img src="https://www.evertkwok.nl/wp-content/uploads/2021/11/879-wappiet.jpg" 
-                             alt="Wappiet" 
-                             style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); transition: transform 0.3s ease;" 
-                             onmouseover="this.style.transform='scale(1.02)'" 
-                             onmouseout="this.style.transform='scale(1)'"
-                             loading="lazy" />
-                    </div>
-                    
-                    <div style="background: #f8f9fa; padding: 25px; border-radius: 12px; margin: 30px 0; border-left: 4px solid #007cba;">
-                        <p style="font-size: 16px; line-height: 1.8; color: #333; margin: 0;">
-                            Educational cartoon by Evert Kwok featuring wappiet. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
-                        </p>
-                    </div>
-                    
-                    <footer style="text-align: center; margin-top: 40px; padding: 20px; background: #f1f3f4; border-radius: 12px;">
-                        <p style="margin: 0; font-size: 14px; color: #666;">
-                            🎓 <strong>About the Artist:</strong> <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a> creates educational cartoons that make complex scientific and mathematical concepts accessible through humor and visual storytelling.
-                        </p>
-                        <p style="margin: 10px 0 0 0; font-size: 12px; color: #888;">
-                            📡 This content is delivered via an automated RSS feed. <a href="https://github.io/StevenLooman/evert-kwok-rss" style="color: #007cba;">Learn more</a>
-                        </p>
-                    </footer>
-                </div>
-            ]]></content:encoded>
-            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
-            <dc:date>2021-11-01T00:00:00.000Z</dc:date>
-            <guid isPermaLink="true">https://www.evertkwok.nl/wp-content/uploads/2021/11/879-wappiet.jpg</guid>
-            <enclosure url="https://www.evertkwok.nl/wp-content/uploads/2021/11/879-wappiet.jpg" type="image/jpeg" length="0"/>
-            <media:content url="https://www.evertkwok.nl/wp-content/uploads/2021/11/879-wappiet.jpg" type="image/jpeg" medium="image">
-                <media:title>Wappiet</media:title>
-                <media:description>Educational cartoon by Evert Kwok featuring wappiet. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.</media:description>
                 <media:keywords>education, cartoon, science, mathematics, humor, evert kwok</media:keywords>
             </media:content>
             <category>Education</category>
@@ -19694,75 +19694,6 @@
             <source url="https://github.io/StevenLooman/evert-kwok-rss/feed.xml">Evert Kwok Educational Cartoons</source>
         </item>
         <item>
-            <title>Krabben</title>
-            <link>https://www.evertkwok.nl/wp-content/uploads/2021/02/491krabben.jpg</link>
-            <description><![CDATA[
-                <div style="max-width: 600px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">
-                    <p style="font-size: 16px; color: #333; margin-bottom: 20px; text-align: center;">
-                        Educational cartoon by Evert Kwok featuring krabben. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
-                    </p>
-                    <div style="text-align: center; margin: 20px 0;">
-                        <img src="https://www.evertkwok.nl/wp-content/uploads/2021/02/491krabben.jpg" 
-                             alt="Krabben" 
-                             style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
-                             loading="lazy" />
-                    </div>
-                    <p style="font-size: 14px; color: #666; text-align: center; margin-top: 15px;">
-                        <strong>🎨 Educational cartoon by <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a></strong>
-                    </p>
-                </div>
-            ]]></description>
-            <content:encoded><![CDATA[
-                <div style="max-width: 800px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-                    <header style="text-align: center; margin-bottom: 30px; padding: 20px; background: linear-gradient(135deg, #f8f9fa, #e9ecef); border-radius: 12px;">
-                        <h1 style="color: #007cba; margin: 0 0 10px 0; font-size: 24px;">Krabben</h1>
-                        <p style="color: #666; margin: 0; font-size: 16px;">📅 maandag 1 februari 2021</p>
-                    </header>
-                    
-                    <div style="text-align: center; margin: 30px 0;">
-                        <img src="https://www.evertkwok.nl/wp-content/uploads/2021/02/491krabben.jpg" 
-                             alt="Krabben" 
-                             style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); transition: transform 0.3s ease;" 
-                             onmouseover="this.style.transform='scale(1.02)'" 
-                             onmouseout="this.style.transform='scale(1)'"
-                             loading="lazy" />
-                    </div>
-                    
-                    <div style="background: #f8f9fa; padding: 25px; border-radius: 12px; margin: 30px 0; border-left: 4px solid #007cba;">
-                        <p style="font-size: 16px; line-height: 1.8; color: #333; margin: 0;">
-                            Educational cartoon by Evert Kwok featuring krabben. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
-                        </p>
-                    </div>
-                    
-                    <footer style="text-align: center; margin-top: 40px; padding: 20px; background: #f1f3f4; border-radius: 12px;">
-                        <p style="margin: 0; font-size: 14px; color: #666;">
-                            🎓 <strong>About the Artist:</strong> <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a> creates educational cartoons that make complex scientific and mathematical concepts accessible through humor and visual storytelling.
-                        </p>
-                        <p style="margin: 10px 0 0 0; font-size: 12px; color: #888;">
-                            📡 This content is delivered via an automated RSS feed. <a href="https://github.io/StevenLooman/evert-kwok-rss" style="color: #007cba;">Learn more</a>
-                        </p>
-                    </footer>
-                </div>
-            ]]></content:encoded>
-            <pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate>
-            <dc:date>2021-02-01T00:00:00.000Z</dc:date>
-            <guid isPermaLink="true">https://www.evertkwok.nl/wp-content/uploads/2021/02/491krabben.jpg</guid>
-            <enclosure url="https://www.evertkwok.nl/wp-content/uploads/2021/02/491krabben.jpg" type="image/jpeg" length="0"/>
-            <media:content url="https://www.evertkwok.nl/wp-content/uploads/2021/02/491krabben.jpg" type="image/jpeg" medium="image">
-                <media:title>Krabben</media:title>
-                <media:description>Educational cartoon by Evert Kwok featuring krabben. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.</media:description>
-                <media:keywords>education, cartoon, science, mathematics, humor, evert kwok</media:keywords>
-            </media:content>
-            <category>Education</category>
-            <category>Cartoons</category>
-            <category>Science</category>
-            <category>Mathematics</category>
-            <category>Humor</category>
-            <category>Visual Learning</category>
-            <author>info@evertkwok.nl (Evert Kwok)</author>
-            <source url="https://github.io/StevenLooman/evert-kwok-rss/feed.xml">Evert Kwok Educational Cartoons</source>
-        </item>
-        <item>
             <title>W27kometen</title>
             <link>https://www.evertkwok.nl/wp-content/uploads/2021/02/W27kometen.jpg</link>
             <description><![CDATA[
@@ -19820,6 +19751,75 @@
             <media:content url="https://www.evertkwok.nl/wp-content/uploads/2021/02/W27kometen.jpg" type="image/jpeg" medium="image">
                 <media:title>W27kometen</media:title>
                 <media:description>Educational cartoon by Evert Kwok featuring w27kometen. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.</media:description>
+                <media:keywords>education, cartoon, science, mathematics, humor, evert kwok</media:keywords>
+            </media:content>
+            <category>Education</category>
+            <category>Cartoons</category>
+            <category>Science</category>
+            <category>Mathematics</category>
+            <category>Humor</category>
+            <category>Visual Learning</category>
+            <author>info@evertkwok.nl (Evert Kwok)</author>
+            <source url="https://github.io/StevenLooman/evert-kwok-rss/feed.xml">Evert Kwok Educational Cartoons</source>
+        </item>
+        <item>
+            <title>Krabben</title>
+            <link>https://www.evertkwok.nl/wp-content/uploads/2021/02/491krabben.jpg</link>
+            <description><![CDATA[
+                <div style="max-width: 600px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">
+                    <p style="font-size: 16px; color: #333; margin-bottom: 20px; text-align: center;">
+                        Educational cartoon by Evert Kwok featuring krabben. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
+                    </p>
+                    <div style="text-align: center; margin: 20px 0;">
+                        <img src="https://www.evertkwok.nl/wp-content/uploads/2021/02/491krabben.jpg" 
+                             alt="Krabben" 
+                             style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+                             loading="lazy" />
+                    </div>
+                    <p style="font-size: 14px; color: #666; text-align: center; margin-top: 15px;">
+                        <strong>🎨 Educational cartoon by <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a></strong>
+                    </p>
+                </div>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <div style="max-width: 800px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+                    <header style="text-align: center; margin-bottom: 30px; padding: 20px; background: linear-gradient(135deg, #f8f9fa, #e9ecef); border-radius: 12px;">
+                        <h1 style="color: #007cba; margin: 0 0 10px 0; font-size: 24px;">Krabben</h1>
+                        <p style="color: #666; margin: 0; font-size: 16px;">📅 maandag 1 februari 2021</p>
+                    </header>
+                    
+                    <div style="text-align: center; margin: 30px 0;">
+                        <img src="https://www.evertkwok.nl/wp-content/uploads/2021/02/491krabben.jpg" 
+                             alt="Krabben" 
+                             style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); transition: transform 0.3s ease;" 
+                             onmouseover="this.style.transform='scale(1.02)'" 
+                             onmouseout="this.style.transform='scale(1)'"
+                             loading="lazy" />
+                    </div>
+                    
+                    <div style="background: #f8f9fa; padding: 25px; border-radius: 12px; margin: 30px 0; border-left: 4px solid #007cba;">
+                        <p style="font-size: 16px; line-height: 1.8; color: #333; margin: 0;">
+                            Educational cartoon by Evert Kwok featuring krabben. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
+                        </p>
+                    </div>
+                    
+                    <footer style="text-align: center; margin-top: 40px; padding: 20px; background: #f1f3f4; border-radius: 12px;">
+                        <p style="margin: 0; font-size: 14px; color: #666;">
+                            🎓 <strong>About the Artist:</strong> <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a> creates educational cartoons that make complex scientific and mathematical concepts accessible through humor and visual storytelling.
+                        </p>
+                        <p style="margin: 10px 0 0 0; font-size: 12px; color: #888;">
+                            📡 This content is delivered via an automated RSS feed. <a href="https://github.io/StevenLooman/evert-kwok-rss" style="color: #007cba;">Learn more</a>
+                        </p>
+                    </footer>
+                </div>
+            ]]></content:encoded>
+            <pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate>
+            <dc:date>2021-02-01T00:00:00.000Z</dc:date>
+            <guid isPermaLink="true">https://www.evertkwok.nl/wp-content/uploads/2021/02/491krabben.jpg</guid>
+            <enclosure url="https://www.evertkwok.nl/wp-content/uploads/2021/02/491krabben.jpg" type="image/jpeg" length="0"/>
+            <media:content url="https://www.evertkwok.nl/wp-content/uploads/2021/02/491krabben.jpg" type="image/jpeg" medium="image">
+                <media:title>Krabben</media:title>
+                <media:description>Educational cartoon by Evert Kwok featuring krabben. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.</media:description>
                 <media:keywords>education, cartoon, science, mathematics, humor, evert kwok</media:keywords>
             </media:content>
             <category>Education</category>
@@ -23339,6 +23339,75 @@
             <media:content url="https://www.evertkwok.nl/wp-content/uploads/2020/11/omgekeerd-inzamelen-cartoon-1.jpg" type="image/jpeg" medium="image">
                 <media:title>Omgekeerd inzamelen</media:title>
                 <media:description>Educational cartoon by Evert Kwok featuring omgekeerd inzamelen. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.</media:description>
+                <media:keywords>education, cartoon, science, mathematics, humor, evert kwok</media:keywords>
+            </media:content>
+            <category>Education</category>
+            <category>Cartoons</category>
+            <category>Science</category>
+            <category>Mathematics</category>
+            <category>Humor</category>
+            <category>Visual Learning</category>
+            <author>info@evertkwok.nl (Evert Kwok)</author>
+            <source url="https://github.io/StevenLooman/evert-kwok-rss/feed.xml">Evert Kwok Educational Cartoons</source>
+        </item>
+        <item>
+            <title>Piet ging uit fietsen</title>
+            <link>https://www.evertkwok.nl/wp-content/uploads/2020/10/781SINTpietband.jpg</link>
+            <description><![CDATA[
+                <div style="max-width: 600px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">
+                    <p style="font-size: 16px; color: #333; margin-bottom: 20px; text-align: center;">
+                        Educational cartoon by Evert Kwok featuring piet ging uit fietsen. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
+                    </p>
+                    <div style="text-align: center; margin: 20px 0;">
+                        <img src="https://www.evertkwok.nl/wp-content/uploads/2020/10/781SINTpietband.jpg" 
+                             alt="Piet ging uit fietsen" 
+                             style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+                             loading="lazy" />
+                    </div>
+                    <p style="font-size: 14px; color: #666; text-align: center; margin-top: 15px;">
+                        <strong>🎨 Educational cartoon by <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a></strong>
+                    </p>
+                </div>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <div style="max-width: 800px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+                    <header style="text-align: center; margin-bottom: 30px; padding: 20px; background: linear-gradient(135deg, #f8f9fa, #e9ecef); border-radius: 12px;">
+                        <h1 style="color: #007cba; margin: 0 0 10px 0; font-size: 24px;">Piet ging uit fietsen</h1>
+                        <p style="color: #666; margin: 0; font-size: 16px;">📅 donderdag 1 oktober 2020</p>
+                    </header>
+                    
+                    <div style="text-align: center; margin: 30px 0;">
+                        <img src="https://www.evertkwok.nl/wp-content/uploads/2020/10/781SINTpietband.jpg" 
+                             alt="Piet ging uit fietsen" 
+                             style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); transition: transform 0.3s ease;" 
+                             onmouseover="this.style.transform='scale(1.02)'" 
+                             onmouseout="this.style.transform='scale(1)'"
+                             loading="lazy" />
+                    </div>
+                    
+                    <div style="background: #f8f9fa; padding: 25px; border-radius: 12px; margin: 30px 0; border-left: 4px solid #007cba;">
+                        <p style="font-size: 16px; line-height: 1.8; color: #333; margin: 0;">
+                            Educational cartoon by Evert Kwok featuring piet ging uit fietsen. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
+                        </p>
+                    </div>
+                    
+                    <footer style="text-align: center; margin-top: 40px; padding: 20px; background: #f1f3f4; border-radius: 12px;">
+                        <p style="margin: 0; font-size: 14px; color: #666;">
+                            🎓 <strong>About the Artist:</strong> <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a> creates educational cartoons that make complex scientific and mathematical concepts accessible through humor and visual storytelling.
+                        </p>
+                        <p style="margin: 10px 0 0 0; font-size: 12px; color: #888;">
+                            📡 This content is delivered via an automated RSS feed. <a href="https://github.io/StevenLooman/evert-kwok-rss" style="color: #007cba;">Learn more</a>
+                        </p>
+                    </footer>
+                </div>
+            ]]></content:encoded>
+            <pubDate>Thu, 01 Oct 2020 00:00:00 GMT</pubDate>
+            <dc:date>2020-10-01T00:00:00.000Z</dc:date>
+            <guid isPermaLink="true">https://www.evertkwok.nl/wp-content/uploads/2020/10/781SINTpietband.jpg</guid>
+            <enclosure url="https://www.evertkwok.nl/wp-content/uploads/2020/10/781SINTpietband.jpg" type="image/jpeg" length="0"/>
+            <media:content url="https://www.evertkwok.nl/wp-content/uploads/2020/10/781SINTpietband.jpg" type="image/jpeg" medium="image">
+                <media:title>Piet ging uit fietsen</media:title>
+                <media:description>Educational cartoon by Evert Kwok featuring piet ging uit fietsen. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.</media:description>
                 <media:keywords>education, cartoon, science, mathematics, humor, evert kwok</media:keywords>
             </media:content>
             <category>Education</category>
@@ -31205,75 +31274,6 @@
             <media:content url="https://www.evertkwok.nl/wp-content/uploads/2020/10/806batman.jpg" type="image/jpeg" medium="image">
                 <media:title>Batman</media:title>
                 <media:description>Educational cartoon by Evert Kwok featuring batman. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.</media:description>
-                <media:keywords>education, cartoon, science, mathematics, humor, evert kwok</media:keywords>
-            </media:content>
-            <category>Education</category>
-            <category>Cartoons</category>
-            <category>Science</category>
-            <category>Mathematics</category>
-            <category>Humor</category>
-            <category>Visual Learning</category>
-            <author>info@evertkwok.nl (Evert Kwok)</author>
-            <source url="https://github.io/StevenLooman/evert-kwok-rss/feed.xml">Evert Kwok Educational Cartoons</source>
-        </item>
-        <item>
-            <title>Piet ging uit fietsen</title>
-            <link>https://www.evertkwok.nl/wp-content/uploads/2020/10/781SINTpietband.jpg</link>
-            <description><![CDATA[
-                <div style="max-width: 600px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">
-                    <p style="font-size: 16px; color: #333; margin-bottom: 20px; text-align: center;">
-                        Educational cartoon by Evert Kwok featuring piet ging uit fietsen. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
-                    </p>
-                    <div style="text-align: center; margin: 20px 0;">
-                        <img src="https://www.evertkwok.nl/wp-content/uploads/2020/10/781SINTpietband.jpg" 
-                             alt="Piet ging uit fietsen" 
-                             style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
-                             loading="lazy" />
-                    </div>
-                    <p style="font-size: 14px; color: #666; text-align: center; margin-top: 15px;">
-                        <strong>🎨 Educational cartoon by <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a></strong>
-                    </p>
-                </div>
-            ]]></description>
-            <content:encoded><![CDATA[
-                <div style="max-width: 800px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-                    <header style="text-align: center; margin-bottom: 30px; padding: 20px; background: linear-gradient(135deg, #f8f9fa, #e9ecef); border-radius: 12px;">
-                        <h1 style="color: #007cba; margin: 0 0 10px 0; font-size: 24px;">Piet ging uit fietsen</h1>
-                        <p style="color: #666; margin: 0; font-size: 16px;">📅 donderdag 1 oktober 2020</p>
-                    </header>
-                    
-                    <div style="text-align: center; margin: 30px 0;">
-                        <img src="https://www.evertkwok.nl/wp-content/uploads/2020/10/781SINTpietband.jpg" 
-                             alt="Piet ging uit fietsen" 
-                             style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); transition: transform 0.3s ease;" 
-                             onmouseover="this.style.transform='scale(1.02)'" 
-                             onmouseout="this.style.transform='scale(1)'"
-                             loading="lazy" />
-                    </div>
-                    
-                    <div style="background: #f8f9fa; padding: 25px; border-radius: 12px; margin: 30px 0; border-left: 4px solid #007cba;">
-                        <p style="font-size: 16px; line-height: 1.8; color: #333; margin: 0;">
-                            Educational cartoon by Evert Kwok featuring piet ging uit fietsen. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
-                        </p>
-                    </div>
-                    
-                    <footer style="text-align: center; margin-top: 40px; padding: 20px; background: #f1f3f4; border-radius: 12px;">
-                        <p style="margin: 0; font-size: 14px; color: #666;">
-                            🎓 <strong>About the Artist:</strong> <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a> creates educational cartoons that make complex scientific and mathematical concepts accessible through humor and visual storytelling.
-                        </p>
-                        <p style="margin: 10px 0 0 0; font-size: 12px; color: #888;">
-                            📡 This content is delivered via an automated RSS feed. <a href="https://github.io/StevenLooman/evert-kwok-rss" style="color: #007cba;">Learn more</a>
-                        </p>
-                    </footer>
-                </div>
-            ]]></content:encoded>
-            <pubDate>Thu, 01 Oct 2020 00:00:00 GMT</pubDate>
-            <dc:date>2020-10-01T00:00:00.000Z</dc:date>
-            <guid isPermaLink="true">https://www.evertkwok.nl/wp-content/uploads/2020/10/781SINTpietband.jpg</guid>
-            <enclosure url="https://www.evertkwok.nl/wp-content/uploads/2020/10/781SINTpietband.jpg" type="image/jpeg" length="0"/>
-            <media:content url="https://www.evertkwok.nl/wp-content/uploads/2020/10/781SINTpietband.jpg" type="image/jpeg" medium="image">
-                <media:title>Piet ging uit fietsen</media:title>
-                <media:description>Educational cartoon by Evert Kwok featuring piet ging uit fietsen. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.</media:description>
                 <media:keywords>education, cartoon, science, mathematics, humor, evert kwok</media:keywords>
             </media:content>
             <category>Education</category>
