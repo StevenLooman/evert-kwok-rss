@@ -8,7 +8,7 @@
         <copyright>© 2026 Evert Kwok. All rights reserved.</copyright>
         <managingEditor>info@evertkwok.nl (Evert Kwok)</managingEditor>
         <webMaster>info@evertkwok.nl (Evert Kwok)</webMaster>
-        <lastBuildDate>Thu, 22 Jan 2026 06:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 06:18:14 GMT</lastBuildDate>
         <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
         <ttl>1440</ttl>
         <generator>Evert Kwok Cartoon Scraper v2.0 (GitHub Actions)</generator>
@@ -224,6 +224,75 @@
             <media:content url="https://www.evertkwok.nl/wp-content/uploads/2026/01/1103-tino-1024x1024.jpg" type="image/jpeg" medium="image">
                 <media:title>Tino 1024x1024</media:title>
                 <media:description>Educational cartoon by Evert Kwok featuring tino 1024x1024. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.</media:description>
+                <media:keywords>education, cartoon, science, mathematics, humor, evert kwok</media:keywords>
+            </media:content>
+            <category>Education</category>
+            <category>Cartoons</category>
+            <category>Science</category>
+            <category>Mathematics</category>
+            <category>Humor</category>
+            <category>Visual Learning</category>
+            <author>info@evertkwok.nl (Evert Kwok)</author>
+            <source url="https://github.io/StevenLooman/evert-kwok-rss/feed.xml">Evert Kwok Educational Cartoons</source>
+        </item>
+        <item>
+            <title>SK2024 033 hands oranje</title>
+            <link>https://www.evertkwok.nl/wp-content/uploads/2026/01/SK2024-033-hands-oranje.jpg</link>
+            <description><![CDATA[
+                <div style="max-width: 600px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">
+                    <p style="font-size: 16px; color: #333; margin-bottom: 20px; text-align: center;">
+                        Educational cartoon by Evert Kwok featuring sk2024 033 hands oranje. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
+                    </p>
+                    <div style="text-align: center; margin: 20px 0;">
+                        <img src="https://www.evertkwok.nl/wp-content/uploads/2026/01/SK2024-033-hands-oranje.jpg" 
+                             alt="SK2024 033 hands oranje" 
+                             style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+                             loading="lazy" />
+                    </div>
+                    <p style="font-size: 14px; color: #666; text-align: center; margin-top: 15px;">
+                        <strong>🎨 Educational cartoon by <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a></strong>
+                    </p>
+                </div>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <div style="max-width: 800px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+                    <header style="text-align: center; margin-bottom: 30px; padding: 20px; background: linear-gradient(135deg, #f8f9fa, #e9ecef); border-radius: 12px;">
+                        <h1 style="color: #007cba; margin: 0 0 10px 0; font-size: 24px;">SK2024 033 hands oranje</h1>
+                        <p style="color: #666; margin: 0; font-size: 16px;">📅 donderdag 1 januari 2026</p>
+                    </header>
+                    
+                    <div style="text-align: center; margin: 30px 0;">
+                        <img src="https://www.evertkwok.nl/wp-content/uploads/2026/01/SK2024-033-hands-oranje.jpg" 
+                             alt="SK2024 033 hands oranje" 
+                             style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); transition: transform 0.3s ease;" 
+                             onmouseover="this.style.transform='scale(1.02)'" 
+                             onmouseout="this.style.transform='scale(1)'"
+                             loading="lazy" />
+                    </div>
+                    
+                    <div style="background: #f8f9fa; padding: 25px; border-radius: 12px; margin: 30px 0; border-left: 4px solid #007cba;">
+                        <p style="font-size: 16px; line-height: 1.8; color: #333; margin: 0;">
+                            Educational cartoon by Evert Kwok featuring sk2024 033 hands oranje. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
+                        </p>
+                    </div>
+                    
+                    <footer style="text-align: center; margin-top: 40px; padding: 20px; background: #f1f3f4; border-radius: 12px;">
+                        <p style="margin: 0; font-size: 14px; color: #666;">
+                            🎓 <strong>About the Artist:</strong> <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a> creates educational cartoons that make complex scientific and mathematical concepts accessible through humor and visual storytelling.
+                        </p>
+                        <p style="margin: 10px 0 0 0; font-size: 12px; color: #888;">
+                            📡 This content is delivered via an automated RSS feed. <a href="https://github.io/StevenLooman/evert-kwok-rss" style="color: #007cba;">Learn more</a>
+                        </p>
+                    </footer>
+                </div>
+            ]]></content:encoded>
+            <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+            <dc:date>2026-01-01T00:00:00.000Z</dc:date>
+            <guid isPermaLink="true">https://www.evertkwok.nl/wp-content/uploads/2026/01/SK2024-033-hands-oranje.jpg</guid>
+            <enclosure url="https://www.evertkwok.nl/wp-content/uploads/2026/01/SK2024-033-hands-oranje.jpg" type="image/jpeg" length="0"/>
+            <media:content url="https://www.evertkwok.nl/wp-content/uploads/2026/01/SK2024-033-hands-oranje.jpg" type="image/jpeg" medium="image">
+                <media:title>SK2024 033 hands oranje</media:title>
+                <media:description>Educational cartoon by Evert Kwok featuring sk2024 033 hands oranje. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.</media:description>
                 <media:keywords>education, cartoon, science, mathematics, humor, evert kwok</media:keywords>
             </media:content>
             <category>Education</category>
@@ -32942,6 +33011,282 @@
             <source url="https://github.io/StevenLooman/evert-kwok-rss/feed.xml">Evert Kwok Educational Cartoons</source>
         </item>
         <item>
+            <title>De7705d0a8f2ff0e 640box</title>
+            <link>https://www.evertkwok.nl/wp-content/uploads/2020/08/93_de7705d0a8f2ff0e_640box.jpg</link>
+            <description><![CDATA[
+                <div style="max-width: 600px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">
+                    <p style="font-size: 16px; color: #333; margin-bottom: 20px; text-align: center;">
+                        Educational cartoon by Evert Kwok featuring de7705d0a8f2ff0e 640box. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
+                    </p>
+                    <div style="text-align: center; margin: 20px 0;">
+                        <img src="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_de7705d0a8f2ff0e_640box.jpg" 
+                             alt="De7705d0a8f2ff0e 640box" 
+                             style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+                             loading="lazy" />
+                    </div>
+                    <p style="font-size: 14px; color: #666; text-align: center; margin-top: 15px;">
+                        <strong>🎨 Educational cartoon by <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a></strong>
+                    </p>
+                </div>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <div style="max-width: 800px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+                    <header style="text-align: center; margin-bottom: 30px; padding: 20px; background: linear-gradient(135deg, #f8f9fa, #e9ecef); border-radius: 12px;">
+                        <h1 style="color: #007cba; margin: 0 0 10px 0; font-size: 24px;">De7705d0a8f2ff0e 640box</h1>
+                        <p style="color: #666; margin: 0; font-size: 16px;">📅 zaterdag 1 augustus 2020</p>
+                    </header>
+                    
+                    <div style="text-align: center; margin: 30px 0;">
+                        <img src="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_de7705d0a8f2ff0e_640box.jpg" 
+                             alt="De7705d0a8f2ff0e 640box" 
+                             style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); transition: transform 0.3s ease;" 
+                             onmouseover="this.style.transform='scale(1.02)'" 
+                             onmouseout="this.style.transform='scale(1)'"
+                             loading="lazy" />
+                    </div>
+                    
+                    <div style="background: #f8f9fa; padding: 25px; border-radius: 12px; margin: 30px 0; border-left: 4px solid #007cba;">
+                        <p style="font-size: 16px; line-height: 1.8; color: #333; margin: 0;">
+                            Educational cartoon by Evert Kwok featuring de7705d0a8f2ff0e 640box. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
+                        </p>
+                    </div>
+                    
+                    <footer style="text-align: center; margin-top: 40px; padding: 20px; background: #f1f3f4; border-radius: 12px;">
+                        <p style="margin: 0; font-size: 14px; color: #666;">
+                            🎓 <strong>About the Artist:</strong> <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a> creates educational cartoons that make complex scientific and mathematical concepts accessible through humor and visual storytelling.
+                        </p>
+                        <p style="margin: 10px 0 0 0; font-size: 12px; color: #888;">
+                            📡 This content is delivered via an automated RSS feed. <a href="https://github.io/StevenLooman/evert-kwok-rss" style="color: #007cba;">Learn more</a>
+                        </p>
+                    </footer>
+                </div>
+            ]]></content:encoded>
+            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
+            <dc:date>2020-08-01T00:00:00.000Z</dc:date>
+            <guid isPermaLink="true">https://www.evertkwok.nl/wp-content/uploads/2020/08/93_de7705d0a8f2ff0e_640box.jpg</guid>
+            <enclosure url="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_de7705d0a8f2ff0e_640box.jpg" type="image/jpeg" length="0"/>
+            <media:content url="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_de7705d0a8f2ff0e_640box.jpg" type="image/jpeg" medium="image">
+                <media:title>De7705d0a8f2ff0e 640box</media:title>
+                <media:description>Educational cartoon by Evert Kwok featuring de7705d0a8f2ff0e 640box. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.</media:description>
+                <media:keywords>education, cartoon, science, mathematics, humor, evert kwok</media:keywords>
+            </media:content>
+            <category>Education</category>
+            <category>Cartoons</category>
+            <category>Science</category>
+            <category>Mathematics</category>
+            <category>Humor</category>
+            <category>Visual Learning</category>
+            <author>info@evertkwok.nl (Evert Kwok)</author>
+            <source url="https://github.io/StevenLooman/evert-kwok-rss/feed.xml">Evert Kwok Educational Cartoons</source>
+        </item>
+        <item>
+            <title>72fea6d6f161cf0d 640box</title>
+            <link>https://www.evertkwok.nl/wp-content/uploads/2020/08/93_72fea6d6f161cf0d_640box.jpg</link>
+            <description><![CDATA[
+                <div style="max-width: 600px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">
+                    <p style="font-size: 16px; color: #333; margin-bottom: 20px; text-align: center;">
+                        Educational cartoon by Evert Kwok featuring 72fea6d6f161cf0d 640box. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
+                    </p>
+                    <div style="text-align: center; margin: 20px 0;">
+                        <img src="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_72fea6d6f161cf0d_640box.jpg" 
+                             alt="72fea6d6f161cf0d 640box" 
+                             style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+                             loading="lazy" />
+                    </div>
+                    <p style="font-size: 14px; color: #666; text-align: center; margin-top: 15px;">
+                        <strong>🎨 Educational cartoon by <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a></strong>
+                    </p>
+                </div>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <div style="max-width: 800px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+                    <header style="text-align: center; margin-bottom: 30px; padding: 20px; background: linear-gradient(135deg, #f8f9fa, #e9ecef); border-radius: 12px;">
+                        <h1 style="color: #007cba; margin: 0 0 10px 0; font-size: 24px;">72fea6d6f161cf0d 640box</h1>
+                        <p style="color: #666; margin: 0; font-size: 16px;">📅 zaterdag 1 augustus 2020</p>
+                    </header>
+                    
+                    <div style="text-align: center; margin: 30px 0;">
+                        <img src="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_72fea6d6f161cf0d_640box.jpg" 
+                             alt="72fea6d6f161cf0d 640box" 
+                             style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); transition: transform 0.3s ease;" 
+                             onmouseover="this.style.transform='scale(1.02)'" 
+                             onmouseout="this.style.transform='scale(1)'"
+                             loading="lazy" />
+                    </div>
+                    
+                    <div style="background: #f8f9fa; padding: 25px; border-radius: 12px; margin: 30px 0; border-left: 4px solid #007cba;">
+                        <p style="font-size: 16px; line-height: 1.8; color: #333; margin: 0;">
+                            Educational cartoon by Evert Kwok featuring 72fea6d6f161cf0d 640box. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
+                        </p>
+                    </div>
+                    
+                    <footer style="text-align: center; margin-top: 40px; padding: 20px; background: #f1f3f4; border-radius: 12px;">
+                        <p style="margin: 0; font-size: 14px; color: #666;">
+                            🎓 <strong>About the Artist:</strong> <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a> creates educational cartoons that make complex scientific and mathematical concepts accessible through humor and visual storytelling.
+                        </p>
+                        <p style="margin: 10px 0 0 0; font-size: 12px; color: #888;">
+                            📡 This content is delivered via an automated RSS feed. <a href="https://github.io/StevenLooman/evert-kwok-rss" style="color: #007cba;">Learn more</a>
+                        </p>
+                    </footer>
+                </div>
+            ]]></content:encoded>
+            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
+            <dc:date>2020-08-01T00:00:00.000Z</dc:date>
+            <guid isPermaLink="true">https://www.evertkwok.nl/wp-content/uploads/2020/08/93_72fea6d6f161cf0d_640box.jpg</guid>
+            <enclosure url="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_72fea6d6f161cf0d_640box.jpg" type="image/jpeg" length="0"/>
+            <media:content url="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_72fea6d6f161cf0d_640box.jpg" type="image/jpeg" medium="image">
+                <media:title>72fea6d6f161cf0d 640box</media:title>
+                <media:description>Educational cartoon by Evert Kwok featuring 72fea6d6f161cf0d 640box. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.</media:description>
+                <media:keywords>education, cartoon, science, mathematics, humor, evert kwok</media:keywords>
+            </media:content>
+            <category>Education</category>
+            <category>Cartoons</category>
+            <category>Science</category>
+            <category>Mathematics</category>
+            <category>Humor</category>
+            <category>Visual Learning</category>
+            <author>info@evertkwok.nl (Evert Kwok)</author>
+            <source url="https://github.io/StevenLooman/evert-kwok-rss/feed.xml">Evert Kwok Educational Cartoons</source>
+        </item>
+        <item>
+            <title>298053c89c1a99ed 640box</title>
+            <link>https://www.evertkwok.nl/wp-content/uploads/2020/08/93_298053c89c1a99ed_640box.jpg</link>
+            <description><![CDATA[
+                <div style="max-width: 600px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">
+                    <p style="font-size: 16px; color: #333; margin-bottom: 20px; text-align: center;">
+                        Educational cartoon by Evert Kwok featuring 298053c89c1a99ed 640box. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
+                    </p>
+                    <div style="text-align: center; margin: 20px 0;">
+                        <img src="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_298053c89c1a99ed_640box.jpg" 
+                             alt="298053c89c1a99ed 640box" 
+                             style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+                             loading="lazy" />
+                    </div>
+                    <p style="font-size: 14px; color: #666; text-align: center; margin-top: 15px;">
+                        <strong>🎨 Educational cartoon by <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a></strong>
+                    </p>
+                </div>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <div style="max-width: 800px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+                    <header style="text-align: center; margin-bottom: 30px; padding: 20px; background: linear-gradient(135deg, #f8f9fa, #e9ecef); border-radius: 12px;">
+                        <h1 style="color: #007cba; margin: 0 0 10px 0; font-size: 24px;">298053c89c1a99ed 640box</h1>
+                        <p style="color: #666; margin: 0; font-size: 16px;">📅 zaterdag 1 augustus 2020</p>
+                    </header>
+                    
+                    <div style="text-align: center; margin: 30px 0;">
+                        <img src="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_298053c89c1a99ed_640box.jpg" 
+                             alt="298053c89c1a99ed 640box" 
+                             style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); transition: transform 0.3s ease;" 
+                             onmouseover="this.style.transform='scale(1.02)'" 
+                             onmouseout="this.style.transform='scale(1)'"
+                             loading="lazy" />
+                    </div>
+                    
+                    <div style="background: #f8f9fa; padding: 25px; border-radius: 12px; margin: 30px 0; border-left: 4px solid #007cba;">
+                        <p style="font-size: 16px; line-height: 1.8; color: #333; margin: 0;">
+                            Educational cartoon by Evert Kwok featuring 298053c89c1a99ed 640box. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
+                        </p>
+                    </div>
+                    
+                    <footer style="text-align: center; margin-top: 40px; padding: 20px; background: #f1f3f4; border-radius: 12px;">
+                        <p style="margin: 0; font-size: 14px; color: #666;">
+                            🎓 <strong>About the Artist:</strong> <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a> creates educational cartoons that make complex scientific and mathematical concepts accessible through humor and visual storytelling.
+                        </p>
+                        <p style="margin: 10px 0 0 0; font-size: 12px; color: #888;">
+                            📡 This content is delivered via an automated RSS feed. <a href="https://github.io/StevenLooman/evert-kwok-rss" style="color: #007cba;">Learn more</a>
+                        </p>
+                    </footer>
+                </div>
+            ]]></content:encoded>
+            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
+            <dc:date>2020-08-01T00:00:00.000Z</dc:date>
+            <guid isPermaLink="true">https://www.evertkwok.nl/wp-content/uploads/2020/08/93_298053c89c1a99ed_640box.jpg</guid>
+            <enclosure url="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_298053c89c1a99ed_640box.jpg" type="image/jpeg" length="0"/>
+            <media:content url="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_298053c89c1a99ed_640box.jpg" type="image/jpeg" medium="image">
+                <media:title>298053c89c1a99ed 640box</media:title>
+                <media:description>Educational cartoon by Evert Kwok featuring 298053c89c1a99ed 640box. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.</media:description>
+                <media:keywords>education, cartoon, science, mathematics, humor, evert kwok</media:keywords>
+            </media:content>
+            <category>Education</category>
+            <category>Cartoons</category>
+            <category>Science</category>
+            <category>Mathematics</category>
+            <category>Humor</category>
+            <category>Visual Learning</category>
+            <author>info@evertkwok.nl (Evert Kwok)</author>
+            <source url="https://github.io/StevenLooman/evert-kwok-rss/feed.xml">Evert Kwok Educational Cartoons</source>
+        </item>
+        <item>
+            <title>1e1bb5a777a2e028 640box</title>
+            <link>https://www.evertkwok.nl/wp-content/uploads/2020/08/93_1e1bb5a777a2e028_640box.jpg</link>
+            <description><![CDATA[
+                <div style="max-width: 600px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">
+                    <p style="font-size: 16px; color: #333; margin-bottom: 20px; text-align: center;">
+                        Educational cartoon by Evert Kwok featuring 1e1bb5a777a2e028 640box. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
+                    </p>
+                    <div style="text-align: center; margin: 20px 0;">
+                        <img src="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_1e1bb5a777a2e028_640box.jpg" 
+                             alt="1e1bb5a777a2e028 640box" 
+                             style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+                             loading="lazy" />
+                    </div>
+                    <p style="font-size: 14px; color: #666; text-align: center; margin-top: 15px;">
+                        <strong>🎨 Educational cartoon by <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a></strong>
+                    </p>
+                </div>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <div style="max-width: 800px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+                    <header style="text-align: center; margin-bottom: 30px; padding: 20px; background: linear-gradient(135deg, #f8f9fa, #e9ecef); border-radius: 12px;">
+                        <h1 style="color: #007cba; margin: 0 0 10px 0; font-size: 24px;">1e1bb5a777a2e028 640box</h1>
+                        <p style="color: #666; margin: 0; font-size: 16px;">📅 zaterdag 1 augustus 2020</p>
+                    </header>
+                    
+                    <div style="text-align: center; margin: 30px 0;">
+                        <img src="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_1e1bb5a777a2e028_640box.jpg" 
+                             alt="1e1bb5a777a2e028 640box" 
+                             style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); transition: transform 0.3s ease;" 
+                             onmouseover="this.style.transform='scale(1.02)'" 
+                             onmouseout="this.style.transform='scale(1)'"
+                             loading="lazy" />
+                    </div>
+                    
+                    <div style="background: #f8f9fa; padding: 25px; border-radius: 12px; margin: 30px 0; border-left: 4px solid #007cba;">
+                        <p style="font-size: 16px; line-height: 1.8; color: #333; margin: 0;">
+                            Educational cartoon by Evert Kwok featuring 1e1bb5a777a2e028 640box. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
+                        </p>
+                    </div>
+                    
+                    <footer style="text-align: center; margin-top: 40px; padding: 20px; background: #f1f3f4; border-radius: 12px;">
+                        <p style="margin: 0; font-size: 14px; color: #666;">
+                            🎓 <strong>About the Artist:</strong> <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a> creates educational cartoons that make complex scientific and mathematical concepts accessible through humor and visual storytelling.
+                        </p>
+                        <p style="margin: 10px 0 0 0; font-size: 12px; color: #888;">
+                            📡 This content is delivered via an automated RSS feed. <a href="https://github.io/StevenLooman/evert-kwok-rss" style="color: #007cba;">Learn more</a>
+                        </p>
+                    </footer>
+                </div>
+            ]]></content:encoded>
+            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
+            <dc:date>2020-08-01T00:00:00.000Z</dc:date>
+            <guid isPermaLink="true">https://www.evertkwok.nl/wp-content/uploads/2020/08/93_1e1bb5a777a2e028_640box.jpg</guid>
+            <enclosure url="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_1e1bb5a777a2e028_640box.jpg" type="image/jpeg" length="0"/>
+            <media:content url="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_1e1bb5a777a2e028_640box.jpg" type="image/jpeg" medium="image">
+                <media:title>1e1bb5a777a2e028 640box</media:title>
+                <media:description>Educational cartoon by Evert Kwok featuring 1e1bb5a777a2e028 640box. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.</media:description>
+                <media:keywords>education, cartoon, science, mathematics, humor, evert kwok</media:keywords>
+            </media:content>
+            <category>Education</category>
+            <category>Cartoons</category>
+            <category>Science</category>
+            <category>Mathematics</category>
+            <category>Humor</category>
+            <category>Visual Learning</category>
+            <author>info@evertkwok.nl (Evert Kwok)</author>
+            <source url="https://github.io/StevenLooman/evert-kwok-rss/feed.xml">Evert Kwok Educational Cartoons</source>
+        </item>
+        <item>
             <title>1bd5b9d3eaf17e25 640box e1639991401364</title>
             <link>https://www.evertkwok.nl/wp-content/uploads/2020/08/93_1bd5b9d3eaf17e25_640box-e1639991401364.jpg</link>
             <description><![CDATA[
@@ -32999,6 +33344,75 @@
             <media:content url="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_1bd5b9d3eaf17e25_640box-e1639991401364.jpg" type="image/jpeg" medium="image">
                 <media:title>1bd5b9d3eaf17e25 640box e1639991401364</media:title>
                 <media:description>Educational cartoon by Evert Kwok featuring 1bd5b9d3eaf17e25 640box e1639991401364. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.</media:description>
+                <media:keywords>education, cartoon, science, mathematics, humor, evert kwok</media:keywords>
+            </media:content>
+            <category>Education</category>
+            <category>Cartoons</category>
+            <category>Science</category>
+            <category>Mathematics</category>
+            <category>Humor</category>
+            <category>Visual Learning</category>
+            <author>info@evertkwok.nl (Evert Kwok)</author>
+            <source url="https://github.io/StevenLooman/evert-kwok-rss/feed.xml">Evert Kwok Educational Cartoons</source>
+        </item>
+        <item>
+            <title>5d380d0e71d2c793 640box</title>
+            <link>https://www.evertkwok.nl/wp-content/uploads/2020/08/93_5d380d0e71d2c793_640box.jpg</link>
+            <description><![CDATA[
+                <div style="max-width: 600px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">
+                    <p style="font-size: 16px; color: #333; margin-bottom: 20px; text-align: center;">
+                        Educational cartoon by Evert Kwok featuring 5d380d0e71d2c793 640box. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
+                    </p>
+                    <div style="text-align: center; margin: 20px 0;">
+                        <img src="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_5d380d0e71d2c793_640box.jpg" 
+                             alt="5d380d0e71d2c793 640box" 
+                             style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+                             loading="lazy" />
+                    </div>
+                    <p style="font-size: 14px; color: #666; text-align: center; margin-top: 15px;">
+                        <strong>🎨 Educational cartoon by <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a></strong>
+                    </p>
+                </div>
+            ]]></description>
+            <content:encoded><![CDATA[
+                <div style="max-width: 800px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+                    <header style="text-align: center; margin-bottom: 30px; padding: 20px; background: linear-gradient(135deg, #f8f9fa, #e9ecef); border-radius: 12px;">
+                        <h1 style="color: #007cba; margin: 0 0 10px 0; font-size: 24px;">5d380d0e71d2c793 640box</h1>
+                        <p style="color: #666; margin: 0; font-size: 16px;">📅 zaterdag 1 augustus 2020</p>
+                    </header>
+                    
+                    <div style="text-align: center; margin: 30px 0;">
+                        <img src="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_5d380d0e71d2c793_640box.jpg" 
+                             alt="5d380d0e71d2c793 640box" 
+                             style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); transition: transform 0.3s ease;" 
+                             onmouseover="this.style.transform='scale(1.02)'" 
+                             onmouseout="this.style.transform='scale(1)'"
+                             loading="lazy" />
+                    </div>
+                    
+                    <div style="background: #f8f9fa; padding: 25px; border-radius: 12px; margin: 30px 0; border-left: 4px solid #007cba;">
+                        <p style="font-size: 16px; line-height: 1.8; color: #333; margin: 0;">
+                            Educational cartoon by Evert Kwok featuring 5d380d0e71d2c793 640box. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.
+                        </p>
+                    </div>
+                    
+                    <footer style="text-align: center; margin-top: 40px; padding: 20px; background: #f1f3f4; border-radius: 12px;">
+                        <p style="margin: 0; font-size: 14px; color: #666;">
+                            🎓 <strong>About the Artist:</strong> <a href="https://www.evertkwok.nl" style="color: #007cba; text-decoration: none;">Evert Kwok</a> creates educational cartoons that make complex scientific and mathematical concepts accessible through humor and visual storytelling.
+                        </p>
+                        <p style="margin: 10px 0 0 0; font-size: 12px; color: #888;">
+                            📡 This content is delivered via an automated RSS feed. <a href="https://github.io/StevenLooman/evert-kwok-rss" style="color: #007cba;">Learn more</a>
+                        </p>
+                    </footer>
+                </div>
+            ]]></content:encoded>
+            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
+            <dc:date>2020-08-01T00:00:00.000Z</dc:date>
+            <guid isPermaLink="true">https://www.evertkwok.nl/wp-content/uploads/2020/08/93_5d380d0e71d2c793_640box.jpg</guid>
+            <enclosure url="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_5d380d0e71d2c793_640box.jpg" type="image/jpeg" length="0"/>
+            <media:content url="https://www.evertkwok.nl/wp-content/uploads/2020/08/93_5d380d0e71d2c793_640box.jpg" type="image/jpeg" medium="image">
+                <media:title>5d380d0e71d2c793 640box</media:title>
+                <media:description>Educational cartoon by Evert Kwok featuring 5d380d0e71d2c793 640box. Making complex scientific and mathematical concepts accessible through visual humor and clever illustrations.</media:description>
                 <media:keywords>education, cartoon, science, mathematics, humor, evert kwok</media:keywords>
             </media:content>
             <category>Education</category>
